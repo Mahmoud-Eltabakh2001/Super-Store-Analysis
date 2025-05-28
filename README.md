@@ -9,6 +9,7 @@ This Power BI report provides an interactive dashboard to analyze store sales pe
 📊 Store Sales Dashboard – Power BI Project
 
 **Tools:** Power BI, DAX, Power Query
+
 **Key Insights:**
 
 - Analyzed 2.3M USD in total sales and identified that the Technology category contributes the highest sales at ~0.84M USD.
