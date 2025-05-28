@@ -10,17 +10,17 @@ This Power BI report provides an interactive dashboard to analyze store sales pe
 Tools: Power BI, DAX, Power Query
 Key Insights:
 
-Analyzed 2.3M USD in total sales and identified that the Technology category contributes the highest sales at ~0.84M USD.
+- Analyzed 2.3M USD in total sales and identified that the Technology category contributes the highest sales at ~0.84M USD.
 
-Found that the West region led all regions with 0.73M USD in sales, while the South region was underperforming at 0.39M USD.
+- Found that the West region led all regions with 0.73M USD in sales, while the South region was underperforming at 0.39M USD.
 
-Discovered that Consumer segment accounted for over 50% of total sales.
+- Discovered that Consumer segment accounted for over 50% of total sales.
 
-Year-over-year trend showed steady growth: from 0.47M in 2015 to 0.73M in 2017 (~55% increase).
+- Year-over-year trend showed steady growth: from 0.47M in 2015 to 0.73M in 2017 (~55% increase).
 
-Built custom DAX measures to calculate KPIs: Profit Margin, Total Orders, and Quantities Sold.
+- Built custom DAX measures to calculate KPIs: Profit Margin, Total Orders, and Quantities Sold.
 
-Designed an interactive report used to support strategic decisions in sales and marketing.
+- Designed an interactive report used to support strategic decisions in sales and marketing.
 
 
 ## 🔍 Key Features
